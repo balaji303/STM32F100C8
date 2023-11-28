@@ -11,3 +11,14 @@ STM32F100C8 is the MCU of BluePill board
 
 ## Images
 ![PinOut](https://github.com/balaji303/STM32F100C8/blob/main/docs/BluePillPinout.png)
+
+## Debugger
+
+For detailed information visit [here](https://balajimail9.wixsite.com/mysite/post/programming-bluepill-using-stm32-board)
+
+|ST-Link V2 PIN| Description| Blue Pill PIN|Description|
+|---|---|---|---|
+|CN4 1| VDD Target | P2-1 |VCC 3.3v
+|CN4 2| SWCLK | P2-3 PA14 | SWCLK | 
+|CN4 3| GND | P2-4 | GND |
+|CN4 4| SWDIO | P2-2 PA13 | SWDIO | 
